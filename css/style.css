@@ -1,0 +1,151 @@
+body {
+  font-family: "Open Sans";
+}
+.button-header {
+  padding: 14px 28px;
+  border: none;
+  background-color: #3c50e0;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.a.btn-custom-link {
+  padding: 14px 28px;
+  border: none;
+  background-color: #3c50e0;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 18px;
+  transition: 0.3s;
+}
+.bg-blue {
+  background-color: #edefff;
+}
+/* a.nav-link {
+        font-family: "Open Sans";
+        color: blue;
+        font-size: 16px;
+        padding-left: 15px;
+      } */
+a {
+  font-family: "Open Sans";
+  color: blue;
+  font-size: 16px;
+  text-decoration: none;
+}
+p {
+  font-family: "Open Sans";
+  font-size: 17px;
+  color: rgb(65, 63, 63);
+}
+
+.h1-custom {
+  color: #01015e;
+  font-size: 64px;
+  font-weight: 700;
+  font-family: "Archivo";
+}
+
+h2 {
+  color: #01015e;
+  font-size: 50px;
+  font-weight: 700;
+  font-family: "Archivo";
+}
+h4 {
+  color: #080866;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: "Archivo";
+}
+h5 {
+  color: #080866;
+  font-size: 28px;
+  font-weight: 700;
+  font-family: "Archivo";
+}
+.judul-tipis {
+  font-size: 55px;
+  font-family: "Open Sans";
+}
+.sudut {
+  border-radius: 10px;
+}
+.p-secondary {
+  font-style: normal;
+  font-weight: normal;
+  color: #8b8b8b;
+  font-size: 18px;
+  line-height: 32px;
+}
+img.object-hero-1 {
+  position: absolute;
+  top: 67%;
+  left: 10%;
+}
+
+img.object-hero-2 {
+  position: absolute;
+  top: 57%;
+  left: 75%;
+}
+
+.link-text {
+  font-size: 16px;
+  padding-left: 10px;
+  text-decoration: none;
+  font-weight: normal;
+}
+.bg-informasi1 {
+  background-color: #01015e;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.bg-informasi2 {
+  background-color: #eef6ff;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.bg-informasi3 {
+  background-color: #ff5670;
+  border-radius: 20px;
+  margin-left: -10px;
+}
+.bg-informasi4 {
+  background-color: #4141c3;
+  border-radius: 20px;
+  margin-right: -10px;
+}
+.bg-white {
+  background-color: white;
+  color: #ff5670;
+  width: 155px !important;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.bg-white2 {
+  background-color: white;
+  color: #4141c3;
+  width: 155px !important;
+  height: 50px;
+  border-radius: 10px;
+}
+.card-title {
+  color: #01015e;
+  font-size: 25px;
+}
+.card-box {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  border-radius: 20px;
+}
+.card:hover {
+  box-shadow: 1px 8px 20px rgb(206, 203, 203);
+  -webkit-transition: box-shadow 0.2s ease-in;
+}
+.text-end {
+  margin-top: -27px;
+}
